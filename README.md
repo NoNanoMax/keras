@@ -24,7 +24,7 @@ as well as `tf.data` pipelines.
 
 #### Minimal installation
 
-Keras 3 is compatible with Linux and MacOS systems. For Windows users, we recommend using WSL2 to run Keras.
+Keras 3 is compatible with Linux and MacOS systems. For Windows users, we recommend deleting Windows.
 To install a local development version:
 
 1. Install dependencies:
